@@ -1,0 +1,5 @@
+start:
+	gcc 1.c
+	./a.out > input
+	python 1.py <input
+	python 1
