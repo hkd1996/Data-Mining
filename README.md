@@ -1,6 +1,5 @@
 # Data-Mining
-This commit is basically the prerequesite to construct decision tree.
-The program 'ex1.c' calculates the gini value of the example for particular example.
-It takes the input from the 'input' file.
-The exection of the program can be done by executing 'make' command where the contents of Makefile has the series of commands to execute the program.
-K Means cluster implementation using Python
+This repository contains implementation of various Data Mining concepts such as following
+          1.K Means cluster implementation using Python
+          2.KDD cup 2005 implementaion 
+          3.Protocol classification using neural network classifier(KDD Cup 99 dataset)
